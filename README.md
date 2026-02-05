@@ -1,4 +1,4 @@
-# PDM2 - Week 1 Practical 1
+# PDM2 - Week 1 Practical 2
 
 ## Expectations for Practicals
 
